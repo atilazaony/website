@@ -1,0 +1,132 @@
+body{
+  margin:0;
+  display: center;
+  text-align: center;
+  display: inline;
+}
+
+.line1{
+  font-family: "qhari", arial, sans-serif;
+  font-size: 2.5em;
+  color: #66BFBF;
+}
+.pro{
+
+  text-decoration-line: underline;
+  text-underline-position:1 below;
+  text-decoration-color: lightblue;
+}
+
+.skill{
+  width: 200px;
+  height: 200px;
+  padding-left: 25px;
+  position: relative;
+}
+
+.me{
+  padding: 10%;
+}
+
+h1{
+  width: 10%;
+  color: #39fA89b7;
+  position: absolute center;
+  padding-right: 10px;
+  margin: 0 auto 0 auto;
+  font-family:"sacramento";
+  font-size: 4.60em;
+  text-decoration: underline;
+}
+.line2{
+  color: #11999E;
+  padding-left: 50px;
+  margin: 0 auto 0 auto;
+  font-family:"sacramento";
+  font-size: 2.60em;
+  float: over;
+}
+.if{
+  margin:auto;
+  padding-left: 40px;
+}
+
+
+.profilepic{
+  width: 130px;
+  border-style: circle dotted;
+  border-radius: 120px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding-left: 5px;
+}
+
+
+/*####### Divisao Entre Topo, meio e Calda*/
+
+.top{
+  background-color: lightseagreen;
+  position: relative;
+  padding-top: 100px;
+}
+
+.cloud1{
+  padding-top: 1px;
+  padding-left: 300px;
+}
+.cloud2{
+  padding-right: 200px;
+  position: absolute;
+}
+.cloud3{
+  position: absolute;
+  padding-left: 400px;
+  padding-top: 120px;
+}
+
+.trisk{
+  color: #67BFBF;
+  position: absolute center;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding-left: 5px;
+
+}
+
+.mountain{
+
+}
+/* #############    Divisao Meio: */
+
+
+.gif1{
+  position: absolute;
+  padding-bottom: 10%;
+}
+
+.backg{
+background-size: cover;
+width: 100%;
+height: 300px;
+position:relative;
+border-radius: 0;
+z-index: -1;
+left: auto;
+right: auto;
+}
+
+
+.mid{
+padding: 10px
+}
+
+
+.line3{
+  color: #11999E;
+  padding-left: 50px;
+  margin: 0 auto 0 auto;
+  font-family:"sacramento";
+  font-size: 2.60em;
+}
